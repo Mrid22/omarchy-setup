@@ -6,4 +6,5 @@
 . ./hyprland.sh
 . ./keyd.sh
 . ./zsh.sh
+. ./gh.sh
 . ./dotfiles.sh

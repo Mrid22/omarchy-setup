@@ -1,4 +1,4 @@
-SOURCE_LINE="source = ~/setup/hyprland.conf"
+SOURCE_LINE="source = ~/omarchy-setup/hyprland.conf"
 HYPRLAND_CONFIG="$HOME/.config/hypr/hyprland.conf"
 if grep -Fxq "$SOURCE_LINE" "$HYPRLAND_CONFIG"; then
   echo "Hyprland already configured"
