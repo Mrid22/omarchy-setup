@@ -3,5 +3,5 @@
 omarchy-pkg-add stow
 
 cd ~/dotfiles/
-stow *
+stow * --adopt
 cd ~/omarchy-setup/

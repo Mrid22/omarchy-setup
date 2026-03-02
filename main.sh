@@ -7,4 +7,5 @@
 . ./theme.sh
 . ./apps.sh
 . ./debloat.sh
+. ./gh.sh
 . ./zsh.sh
