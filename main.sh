@@ -6,6 +6,7 @@
 . ./keyd.sh
 . ./theme.sh
 . ./apps.sh
+. ./neovim.sh
 . ./debloat.sh
 . ./gh.sh
 . ./zsh.sh
