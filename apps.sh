@@ -6,4 +6,11 @@ git-delta \
 godot \
 blender \
 
-omarchy-install-dev-env node
+
+if ! command -v python; then
+	omarchy-install-dev-env python
+fi
+
+if ! command -v node; then
+	omarchy-install-dev-env node
+fi
