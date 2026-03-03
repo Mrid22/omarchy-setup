@@ -5,3 +5,5 @@ omarchy-pkg-add \
 git-delta \
 godot \
 blender \
+
+omarchy-install-dev-env node
