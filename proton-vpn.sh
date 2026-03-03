@@ -1,6 +1,6 @@
 #!/bin/sh
 
-omarchy-pkg-add networkmanager network-manager-applet openvpn
+omarchy-pkg-add networkmanager network-manager-applet openvpn wireguard-tools proton-vpn-gtk-app
 
 if systemctl is-enabled iwd | grep enabled; then
   sudo systemctl stop iwd.service
