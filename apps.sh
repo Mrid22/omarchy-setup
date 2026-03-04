@@ -1,12 +1,17 @@
 #!/bin/sh
 
-omarchy-pkg-aur-add zen-browser-bin
+omarchy-pkg-aur-add \
+	zen-browser-bin 
+
 omarchy-pkg-add \
-git-delta \
-godot \
-blender \
-ntfs-3g \
-spotdl \
+	git-delta \
+	godot \
+	blender \
+	ntfs-3g \
+	docker \
+	docker-compose \
+	lazydocker \
+	yt-dlp \
 
 
 if ! command -v python; then
