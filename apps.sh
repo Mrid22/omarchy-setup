@@ -10,7 +10,6 @@ omarchy-pkg-add \
 	ntfs-3g \
 	docker \
 	docker-compose \
-	lazydocker \
 	yt-dlp \
 
 
