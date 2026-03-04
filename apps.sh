@@ -5,6 +5,8 @@ omarchy-pkg-add \
 git-delta \
 godot \
 blender \
+ntfs-3g \
+spotdl \
 
 
 if ! command -v python; then
