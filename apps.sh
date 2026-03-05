@@ -2,6 +2,7 @@
 
 omarchy-pkg-aur-add \
 	zen-browser-bin 
+	vicinae-bin \
 
 omarchy-pkg-add \
 	git-delta \
@@ -11,7 +12,6 @@ omarchy-pkg-add \
 	docker \
 	docker-compose \
 	yt-dlp \
-	vicinae-bin \
 	finamp \
 
 
