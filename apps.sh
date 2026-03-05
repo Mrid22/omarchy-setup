@@ -1,7 +1,7 @@
 #!/bin/sh
 
 omarchy-pkg-aur-add \
-	zen-browser-bin 
+	zen-browser-bin \
 	vicinae-bin \
 
 omarchy-pkg-add \
