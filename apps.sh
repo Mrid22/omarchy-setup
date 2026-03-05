@@ -3,7 +3,7 @@
 omarchy-pkg-aur-add \
 	zen-browser-bin \
 	vicinae-bin \
-	finamp \
+	finamp-bin \
 
 omarchy-pkg-add \
 	git-delta \
