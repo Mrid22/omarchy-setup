@@ -11,6 +11,7 @@ omarchy-pkg-add \
 	docker \
 	docker-compose \
 	yt-dlp \
+	vicinae-bin \
 
 
 if ! command -v python; then
