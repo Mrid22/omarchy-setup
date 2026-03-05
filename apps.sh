@@ -3,6 +3,7 @@
 omarchy-pkg-aur-add \
 	zen-browser-bin \
 	vicinae-bin \
+	finamp \
 
 omarchy-pkg-add \
 	git-delta \
@@ -12,7 +13,6 @@ omarchy-pkg-add \
 	docker \
 	docker-compose \
 	yt-dlp \
-	finamp \
 
 
 if ! command -v python; then
