@@ -13,6 +13,7 @@ omarchy-pkg-add \
 	docker \
 	docker-compose \
 	yt-dlp \
+	zsh \
 
 
 if ! command -v python; then
