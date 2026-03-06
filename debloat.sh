@@ -6,3 +6,7 @@ omarchy-pkg-drop \
   nautilus-python \
 	impala \
 	bluetui \
+	omarchy-nvim \
+	neovim \
+	treesitter \
+	omarchy-walker \
