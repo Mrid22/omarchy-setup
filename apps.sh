@@ -4,7 +4,6 @@ omarchy-pkg-aur-add \
 	zen-browser-bin \
 	vicinae-bin \
 	finamp-bin \
-	neovim-nightly \
 
 omarchy-pkg-add \
 	git-delta \
