@@ -7,4 +7,6 @@ omarchy-pkg-drop \
 	impala \
 	bluetui \
 	omarchy-nvim \
+	neovim \
+	tree-sitter \
 	omarchy-walker \
