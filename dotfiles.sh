@@ -6,6 +6,7 @@ rm -rf ~/.config/nvim
 rm -rf ~/.config/hypr
 rm -rf ~/.config/ghostty
 rm -rf ~/.config/git
+rm -rf ~/.bashrc
 
 git clone https://github.com/Mrid22/dotfiles/ ~/dotfiles
 
