@@ -15,6 +15,7 @@ omarchy-pkg-add \
 	docker-compose \
 	yt-dlp \
 	zsh \
+	syncthing \
 
 
 if ! command -v python; then
