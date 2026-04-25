@@ -6,7 +6,7 @@
 . ./theme.sh
 . ./debloat.sh
 . ./apps.sh
-. ./proton-vpn.sh
 . ./gh.sh
+. ./proton-vpn.sh
 
 gum confirm "Reboot recommended, ready?" && omarchy-system-reboot
