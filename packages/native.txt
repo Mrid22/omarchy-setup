@@ -99,6 +99,7 @@ omarchy
 omarchy-keyring
 omarchy-nvim
 omarchy-settings
+omarchy-zsh
 pacman-contrib
 pamixer
 picard
