@@ -6,5 +6,6 @@ This directory is a snapshot of an Omarchy machine, written by
 Replay it onto a fresh install with:
 
 ```bash
-ress restore --vault /home/mridula/.local/share/ress/vault
+cd scripts
+./main.sh
 ```
