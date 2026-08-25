@@ -8,3 +8,5 @@ SOUND_FILE="/usr/share/sounds/freedesktop/stereo/dialog-warning.oga"
 if omarchy-cmd-present mpv && [[ -f $SOUND_FILE ]]; then
   mpv --no-video "$SOUND_FILE" >/dev/null 2>&1
 fi
+
+omarchy notification send "Low Battery" "Please recharge"
