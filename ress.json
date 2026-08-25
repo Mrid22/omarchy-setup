@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "ressVersion": "1.1.0",
+  "createdAt": "2026-08-25T05:31:33Z",
+  "machine": {
+    "hostname": "omarchy",
+    "user": "mridula",
+    "omarchy": "4.0.0.alpha",
+    "kernel": "7.1.8-arch1-3"
+  },
+  "categories": [
+    "packages",
+    "config",
+    "plugins"
+  ],
+  "counts": {
+    "packages": 163,
+    "config": 23,
+    "themes": 0,
+    "webapps": 0,
+    "plugins": 4,
+    "secrets": 0,
+    "uncaptured": 28,
+    "services": 13
+  }
+}

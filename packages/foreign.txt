@@ -1,0 +1,2 @@
+finamp-bin
+zen-browser-bin
