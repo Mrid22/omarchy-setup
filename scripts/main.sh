@@ -2,3 +2,4 @@
 
 . ./ress.sh
 . ./keyd.sh
+. ./shell.sh
